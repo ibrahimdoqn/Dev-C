@@ -1,4 +1,4 @@
-//Sýnav Sorusu;
+//SÄ±nav Sorusu;
 #include<stdio.h>
 #include<conio.h>
 #include<iostream>
