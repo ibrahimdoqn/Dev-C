@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>//Getch için
+#include<conio.h>//Getch iÃ§in
 main()
 {
 	int a;
